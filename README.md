@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h2 align="center">I am a Computer Science student about to complete my 3rd year at Lublin University of Technology on spcialization Software engineering.</h2>
 
-- 🔭 I’m currently working on improving my knowledge about programming,
+- 🔭 I’m currently improving my knowledge about programming,
 - 🌱 I’m currently learning **Java** and **React**,
 - 💬 Ask me about **anything**,
 - 📫 How to reach me: **k.konrad9902@gmail.com**
