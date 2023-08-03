@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h2 align="center">I am a Computer Science student about to complete my 3rd year at Lublin University of Technology on spcialization Software engineering.</h2>
+<h2 align="center">I am a Computer Science student at Lublin University of Technology on spcialization Software engineering.</h2>
 
 - 🔭 I’m currently improving my knowledge about programming,
 - 🌱 I’m currently learning **Java** and **React**,
