@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there 👋 </h1>
-<h2 align="center">I am a Computer Science student at Lublin University of Technology on spcialization Software engineering.</h2>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I’m a Computer Science graduate with a specialization in Software Engineering from Lublin University of Technology. I’m passionate about software development and enjoy improving my skills by working on personal projects - from simple tools to more complex applications.</h2>
 
 - 🔭 I’m currently improving my knowledge about programming,
-- 🌱 I’m currently learning **Java** and **React**,
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **anything**
 
 
