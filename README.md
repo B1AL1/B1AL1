@@ -1,9 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">I’m a Computer Science graduate with a specialization in Software Engineering from Lublin University of Technology. I’m passionate about software development and enjoy improving my skills by working on personal projects - from simple tools to more complex applications.</h2>
 
-- 🔭 I’m currently improving my knowledge about programming,
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **anything**
+<h2 align="center">
+Software Engineer with 4+ years of experience in Salesforce/SFI and full-stack development.
+I specialize in building scalable, production-grade systems and integrating complex business solutions.
+</h2>
+
+* 💼 4+ years as a Salesforce / SFI Developer (enterprise-level projects)
+* ⚙️ Tech stack: Java, Spring, Node.js, React, TypeScript, Docker, SQL, Apex, LWC
+* ☁️ Strong experience with Salesforce ecosystem, integrations, and backend systems
+* 🧠 Focused on system design, performance, and clean architecture
+* 🚀 Passionate about building reliable, maintainable, and scalable software
+* 🌱 Currently leveling up in **TypeScript** and modern frontend architecture
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,5 +47,8 @@
   </a>
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
